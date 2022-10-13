@@ -25,7 +25,7 @@ This repository records the programming assignments and group project. Where the
 - Goal: predict time-series PM2.5 from past 8 hours to future 8
 - Dataset: hourly (labeled) data data of temperature, chemical compounds, and wind directions
 - Project detail:
-    - sequence to sequence RNN model
+    - sequence to sequence model
     - line plot with Multi-Step prediction
 
 ## Mask Identification (*Final Group Project.ipynb*)
